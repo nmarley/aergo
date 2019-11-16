@@ -40,6 +40,7 @@ require (
 	github.com/multiformats/go-multiaddr v0.1.1
 	github.com/multiformats/go-multiaddr-dns v0.2.0 // indirect
 	github.com/multiformats/go-multiaddr-net v0.1.0
+	github.com/nmarley/aergo-lib v0.0.0-20191116194556-655181b3c74c // indirect
 	github.com/opentracing-contrib/go-observer v0.0.0-20170622124052-a52f23424492 // indirect
 	github.com/opentracing/opentracing-go v1.0.2
 	github.com/openzipkin-contrib/zipkin-go-opentracing v0.3.5
