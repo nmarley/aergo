@@ -20,10 +20,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/aergoio/aergo-lib/db"
-	"github.com/aergoio/aergo/internal/common"
-	//"github.com/dgraph-io/badger"
-	//"github.com/dgraph-io/badger/options"
+	"github.com/nmarley/aergo-lib/db"
+	"github.com/nmarley/aergo/internal/common"
 )
 
 func TestTrieEmpty(t *testing.T) {
