@@ -1,4 +1,4 @@
-module github.com/aergoio/aergo
+module github.com/nmarley/aergo
 
 go 1.12
 
